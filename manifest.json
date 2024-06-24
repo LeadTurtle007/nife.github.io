@@ -1,6 +1,6 @@
 {
-    "name": "navbar",
-    "short_name": "navbar",
+    "name": "code",
+    "short_name": "code",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
