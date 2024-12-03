@@ -1,6 +1,6 @@
 {
-    "name": "code",
-    "short_name": "code",
+    "name": "code_uat",
+    "short_name": "code_uat",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
